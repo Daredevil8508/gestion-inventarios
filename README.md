@@ -59,7 +59,3 @@ jorge.abella@uniminuto.edu.co
 📃 Licencia
 Este proyecto es de uso académico y no tiene fines comerciales.
 
-yaml
-Copiar
-Editar
-
