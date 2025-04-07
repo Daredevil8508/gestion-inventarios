@@ -1,0 +1,38 @@
+*.class
+# Archivos de NetBeans
+nbproject/private/
+build/
+dist/
+.nb-gradle/
+nb-configuration.xml
+
+# Directorios de compilación
+*.class
+*.jar
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Configuración de IDEs
+*.iml
+.idea/
+.vscode/
+
+# Librerías externas (si no las quieres versionar)
+lib/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Configuración personal
+*.env
+*.properties
+
+# Base de datos (si exportas datos)
+*.sql
